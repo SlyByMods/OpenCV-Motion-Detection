@@ -8,7 +8,7 @@ Make sure you have Python and the required libraries installed. You can install 
 
 ```bash
 pip install opencv-python numpy pillow
-
+```
 ## Usage
 
 Run the script, and the application will open in a graphical user interface window. From there, you can adjust the following parameters:
